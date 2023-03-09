@@ -45,15 +45,15 @@ body{
     justify-content: center;
     height: 78px;
     width: 78px;
-    color: #88abff;
+    color: #575757;
     font-size: 40px;
     border-radius: 50%;
-    border: 2px dashed #88abff;
+    border: 2px dashed #575757;
     cursor: pointer;
 }
 
 .add-box p{
-    color: #88abff;
+    color: #575757;
     font-weight: 500;
     margin-top: 20px;
 }
