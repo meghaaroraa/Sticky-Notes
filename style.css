@@ -239,3 +239,11 @@ form .row label{
     opacity: 1;
     pointer-events: auto;
 }
+
+#toggleDark{
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    top: 5%;
+    left: 95%;
+}
