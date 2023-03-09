@@ -127,3 +127,21 @@ addBtn.addEventListener("click", e => {
         showNotes();
     }
 });
+
+const toggle = document.getElementById('toggleDark');
+const body = document.querySelector('body');
+
+toggle.addEventListener('click', function(){
+    if(toggle.classList.contains("uil-sun")){
+        toggle.classList.remove('uil-sun');
+        toggle.classList.add('uil-moon');
+        body.style.background = "#606060";
+        body.style.transition = '2s'
+    }
+    else{
+        toggle.classList.remove('uil-moon');
+        toggle.classList.add('uil-sun');
+        body.style.background = "#6a93f8";
+        body.style.transition = '2s'
+    }
+})
