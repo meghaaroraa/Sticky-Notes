@@ -4,6 +4,8 @@ The to-do website provides a convenient platform for managing tasks and notes ef
 
 The to-do website streamlines task and note management by utilizing the local storage feature of the user's browser. This ensures that the notes created by the user are securely stored and accessible whenever they revisit the website from the same browser and device. With the convenience of local storage, users can rely on the website to retain their notes even after closing the browser or refreshing the page, enabling a seamless and uninterrupted note-taking experience.
 
+The website can be accessed by using the following link : https://meghaaroraa.github.io/Sticky-Notes/
+
 ## Features of the Website
 1. Add new notes
 2. Edit existing notes
